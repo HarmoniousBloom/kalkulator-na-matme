@@ -9,4 +9,4 @@ var wynikpoletrojkąta = a1 + b1 / 2;
 var wynikprzeciwprostokatna = Math.sqrt(c)
 alert ("Pole A i B wynosi " + wynikpole + ", a obwód " + wynikobwod + ".");
 alert ("Pole trójkąta z tych dwóch cyfr wynosi " + wynikpoletrojkąta + ".");
-alert ("Przeciwprostokątna przyprostokątnych A i B wynosi " + wynikprzeciwprostokatna + ".");
+alert ("Przeciwprostokątna przyprostokątnych A i B wynosi pierwiastek z " + c + ", czyli " + wynikprzeciwprostokatna + ".")
